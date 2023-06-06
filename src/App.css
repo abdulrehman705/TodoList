@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  background-color: greenyellow;
+  margin: 0px;
+  padding: 0px;
+}
+
+.input {
+  width: 20%;
+  padding: 7px;
+  margin-right: 20px;
+}
+
+.InnerContainer {
+  width: 45%;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  flex: inline;
+  margin: 10px;
+}
+
+.OuterContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.Text {
+  display: flex;
+  flex: 1;
+  background-color: #fff;
+  padding: 10px;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.ComplteText {
+  display: flex;
+  flex: 1;
+  background-color: #fff;
+  padding: 10px;
+  margin-right: 30px;
+  text-decoration: line-through;
+  margin-left: 30px;
+}

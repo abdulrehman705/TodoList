@@ -1,0 +1,18 @@
+.Container {
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    align-self: center;
+    margin: 25px;
+
+}
+
+.Card {
+    width: 40%;
+    border: 2px solid black;
+    height: 200px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+}
